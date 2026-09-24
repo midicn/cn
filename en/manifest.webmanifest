@@ -1,0 +1,30 @@
+{
+  "name": "midicn · Chinese Music",
+  "short_name": "Chinese Music",
+  "description": "【批次 M7】⚠️ 中国内容的唯一归属地。站级附加红线见分册 §四。",
+  "start_url": "../en/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070706",
+  "theme_color": "#C0504A",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "assets/core/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
