@@ -1,7 +1,7 @@
 {
   "name": "midicn · Chinese Music",
   "short_name": "Chinese Music",
-  "description": "【批次 M7】⚠️ 中国内容的唯一归属地。站级附加红线见分册 §四。",
+  "description": "A dedicated site for Chinese music — tuning systems and modes, opera, instrumental traditions, folk song and traditional genres.",
   "start_url": "../en/",
   "scope": "./",
   "display": "standalone",
